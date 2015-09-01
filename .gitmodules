@@ -16,3 +16,6 @@
 [submodule "bundle/puppet"]
 	path = bundle/puppet
 	url = git@github.com:rodjek/vim-puppet.git
+[submodule "bundle/colors-gruvbox"]
+	path = bundle/colors-gruvbox
+	url = git@github.com:morhetz/gruvbox.git
