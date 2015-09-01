@@ -4,3 +4,12 @@
 [submodule "bundle/colors-monokai"]
 	path = bundle/colors-monokai
 	url = git@github.com:sickill/vim-monokai.git
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = git://github.com/godlygeek/tabular.git
+[submodule "bundle/snippets"]
+	path = bundle/snippets
+	url = git@github.com:honza/vim-snippets.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git@github.com:scrooloose/syntastic.git
