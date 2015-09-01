@@ -1,3 +1,6 @@
 [submodule "bundle/colors-solarized"]
 	path = bundle/colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/colors-monokai"]
+	path = bundle/colors-monokai
+	url = git@github.com:sickill/vim-monokai.git
