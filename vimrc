@@ -1,17 +1,13 @@
 execute pathogen#infect()
 call pathogen#helptags()
 
-" Make backspace behave in a sane manner.
-set backspace=indent,eol,start
-
-" Enable syntax highlighting
-syntax on
-
+set backspace=indent,eol,start " Make backspace behave in a sane manner.
+syntax on " Enable syntax highlighting
 " Enable file type detection and do language dependent indenting.
 filetype plugin indent on
-
-" Show line numbers
-set number
+set number " Show line numbers
+set history=100 " Increase history size to 100
+set hidden " Leave hidden buffers open
 
 set bg=dark
 colorscheme monokai
