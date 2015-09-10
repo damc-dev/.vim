@@ -23,3 +23,8 @@ set shiftwidth=2
 set softtabstop=2
 set tabstop=2
 
+" Enable default syntax highlighting for Markdown files
+augroup markdown
+    au!
+    au BufNewFile,BufRead *.md,*.markdown setlocal filetype=ghmarkdown
+augroup END
