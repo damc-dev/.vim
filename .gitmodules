@@ -1,24 +1,24 @@
 [submodule "bundle/colors-solarized"]
 	path = bundle/colors-solarized
-	url = git://github.com/altercation/vim-colors-solarized.git
+	url = https://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/colors-monokai"]
 	path = bundle/colors-monokai
-	url = git@github.com:sickill/vim-monokai.git
+	url = https://github.com:sickill/vim-monokai.git
 [submodule "bundle/tabular"]
 	path = bundle/tabular
-	url = git://github.com/godlygeek/tabular.git
+	url = https://github.com/godlygeek/tabular.git
 [submodule "bundle/snippets"]
 	path = bundle/snippets
-	url = git@github.com:honza/vim-snippets.git
+	url = https://github.com:honza/vim-snippets.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
-	url = git@github.com:scrooloose/syntastic.git
+	url = https://github.com:scrooloose/syntastic.git
 [submodule "bundle/puppet"]
 	path = bundle/puppet
-	url = git@github.com:rodjek/vim-puppet.git
+	url = https://github.com:rodjek/vim-puppet.git
 [submodule "bundle/colors-gruvbox"]
   path = bundle/colors-gruvbox
   url = https://github.com/morhetz/gruvbox.git
 [submodule "bundle/vim-flavored-markdown"]
 	path = bundle/vim-flavored-markdown
-	url = git://github.com/jtratner/vim-flavored-markdown.git
+	url = https://github.com/jtratner/vim-flavored-markdown.git
