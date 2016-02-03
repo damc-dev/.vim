@@ -3,19 +3,19 @@
 	url = https://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/colors-monokai"]
 	path = bundle/colors-monokai
-	url = https://github.com:sickill/vim-monokai.git
+	url = https://github.com/sickill/vim-monokai.git
 [submodule "bundle/tabular"]
 	path = bundle/tabular
 	url = https://github.com/godlygeek/tabular.git
 [submodule "bundle/snippets"]
 	path = bundle/snippets
-	url = https://github.com:honza/vim-snippets.git
+	url = https://github.com/honza/vim-snippets.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
-	url = https://github.com:scrooloose/syntastic.git
+	url = https://github.com/scrooloose/syntastic.git
 [submodule "bundle/puppet"]
 	path = bundle/puppet
-	url = https://github.com:rodjek/vim-puppet.git
+	url = https://github.com/rodjek/vim-puppet.git
 [submodule "bundle/colors-gruvbox"]
   path = bundle/colors-gruvbox
   url = https://github.com/morhetz/gruvbox.git
