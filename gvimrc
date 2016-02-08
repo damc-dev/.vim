@@ -1,4 +1,7 @@
+set guifont=Consolas:h11:cANSI " set font for gvim
+
 set showtabline=2 " always show tabs in gvim, but not vim
+
 " set up tab labels with tab number, buffer name, number of windows
 function! GuiTabLabel()
   let label = ''
