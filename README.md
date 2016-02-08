@@ -13,6 +13,6 @@ ln -sf $HOME/.vim/vimrc $HOME/.vimrc
 ```
 cd ~/
 git clone --recursive git@github.com:damc-dev/.vim.git vimfiles
-ln -sf $HOME/.vim/vimrc $HOME/_vimrc
+ln -sf $HOME/vimFiles/vimrc $HOME/_vimrc
 
 ```
