@@ -10,10 +10,10 @@ set history=100 " Increase history size to 100
 set hidden " Leave hidden buffers open
 
 autocmd BufEnter * silent! lcd %:p:h " cd's to directory of file in window
-
-set bg=dark
+set t_Co=256
 colorscheme monokai
 highlight comment ctermfg=darkgray
+set bg=dark
 
 set fileformat=unix
 set encoding=utf-8
